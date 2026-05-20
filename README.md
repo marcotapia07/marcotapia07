@@ -11,7 +11,7 @@
 - :school: Desarrollador Junior y Tecnologo en Desarrollo de Software
 - :technologist: Me fascina realizar proyectos e ir aprendiendo conforme a ellos
 - :computer: Tengo conocimientos en el `Desarrollo Web` y `Marketing Digital`
-- :student: Actualmente me encuentro aprendiendo `Ciencia de datos` 
+- :student: Actualmente me encuentro aprendiendo `C#` y `Unity` para un proyecto personal. 
 - :nerd_face: Siempre busco aprender cosas nuevas tanto relacionadas al Software como a mi desarrollo personal
 
 <br>
